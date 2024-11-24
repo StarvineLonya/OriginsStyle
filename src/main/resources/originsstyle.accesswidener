@@ -1,0 +1,3 @@
+accessWidener   v2  named
+# Classes
+transitive-accessible	field	net/minecraft/client/render/entity/model/BipedEntityModel	head Lnet/minecraft/client/model/ModelPart;
